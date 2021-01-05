@@ -1,0 +1,52 @@
+#rentTable_div{
+    text-align: center;
+    margin:0 1em;
+}
+
+#rentNote{
+    text-align: left;
+    margin:2em;
+    padding: 1em 1em 1em 0em;
+}
+
+.fit{
+    margin: 0em 1em 1em 0em;
+}
+
+.billBox{
+    background-color: rgb(139, 245, 210);
+    margin: 1em;
+    padding: 1em;
+    opacity: 0.7;
+    border-radius: 0.3em;
+}
+
+.qaDiv{
+    background-color: rgb(255, 255, 255);
+    padding: 1em;
+    text-align: left;
+    margin: 0.5em 0.5em 0em 0.5em;
+    border-radius: 0.3em;
+    font-size: 0.96em;    
+    line-height: 1.6em;
+    border:1px solid #aaa;
+}
+
+#qAndA_div{
+    text-align: center;
+    background-color: rgb(143, 244, 252);
+}
+.qaPart{
+    /* background-color: rgb(34, 182, 15); */
+    /* border:1px solid #aaa; */
+}
+
+/* .qaDiv h3{
+    font-size: 1.2em;
+    color: navy;
+} */
+
+
+#aaaa{
+    color: blueviolet;
+}

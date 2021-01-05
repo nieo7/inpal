@@ -1,0 +1,73 @@
+#niPlugBase{
+    position: absolute;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(15, 15, 15, 0.9);
+    text-align: center;
+}
+
+#niPlugMask{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    margin-top: 5%;
+    overflow: hidden;
+    text-align: center;
+}
+
+/* 所有圖片的div */
+.cniPlug_pic{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    /* border:2px solid rgb(12, 173, 223); */
+}
+
+/* 單張圖片的class */
+.niPlug_pic{
+    /* width: 20%; */
+    /* height: 100%; */
+    /* border:1px solid rgb(207, 231, 72); */
+}
+
+.cniPlugPic_body{
+    height: 100%;
+}
+
+.niPlugArrow{    
+    top: 40%;
+    color: white;
+    font-size: 3em;
+    font-weight: bold;
+}
+
+#niPlugPrev{
+    position: absolute;
+    right: 5%;
+}
+#niPlugNext{
+    /* margin-right: 10%; */
+    position: absolute;
+    left: 5%;
+}
+#niPlugPoint_div{
+    width: 100%;
+    position: absolute;
+    text-align: center;
+    top: 90%;
+}
+
+.cniPlugPointUnTurn{
+    color: white;
+    font-size: 2em;
+    /* 半透明 */
+    opacity: 0.5;
+}
+
+.cniPlugPointTurn{
+    color: white;
+    font-size: 2em;
+    opacity: 1.0;
+}
+

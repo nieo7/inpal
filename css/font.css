@@ -1,0 +1,75 @@
+
+h1{
+    font-size: 2em;
+    font-weight: bold;
+}
+h2{
+    text-align: left;
+    margin: 1em;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+h3{
+    font-size: 1em;
+    font-weight: bold;
+    margin: 0.5em;
+    color: rgb(255, 140, 245);
+}
+h4{
+    font-size: 1.4em;
+    font-weight: bold;
+    color: rgb(0,153,153);
+}
+h5{
+    text-align: left;
+    font-size: 1.4em;
+    font-weight: bold;
+    margin: 2em;
+    color: rgb(0,153,153);
+}
+h6{
+    margin: auto auto 0.5em 0.5em;
+    font-size: 1.4em;
+    font-weight: bold;
+    color: deepskyblue;
+}
+.fGreen{
+    color: rgb(0,153,153);
+}
+
+.fPink{
+    font-weight: bold;
+    color: rgb(255,55,172);
+}
+.fGray{
+    font-weight: bold;
+    color: rgb(55,55,55);
+}
+.fGrayLight{
+    font-weight: bold;
+    color: rgb(155,155,155);
+}
+.fRed{
+    font-weight: bold;
+    color: rgb(255,0,0);
+}
+
+.fPurple{
+    color: blueviolet;
+}
+.prize{
+    font-weight: bold;
+    color: rgb(255,55,172);
+}
+.ttlf{
+    text-align: left;
+}
+
+.imgAuto{
+    /* display: block; */
+    max-width: 100%;
+    height: auto;
+}
+.indent{
+    text-indent : 2em;
+}

@@ -1,0 +1,22 @@
+
+.pdTable{
+    width: 100%;
+}
+.pdTable td, .pdTable th{
+    border:1px solid #888;    
+    margin: 1em;
+    text-align: center;
+}
+
+.pdTable th{
+    background-color: lightskyblue;
+    color: rgb(36, 54, 155);
+}
+
+.pdTable tr:nth-child(odd){
+    background:rgb(210, 236, 252);
+  }
+  
+.pdTable tr:nth-child(even){
+    background:rgb(177, 226, 255);
+}
